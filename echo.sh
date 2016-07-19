@@ -1,3 +1,3 @@
 echo 'Hello runSh'
-sleep 5sec
+sleep 100
 echo 'slept well'
