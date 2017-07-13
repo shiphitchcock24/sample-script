@@ -1,3 +1,3 @@
 echo 'Hello runSh23'
-sleep 5m
+sleep 3m
 echo 'slept well23343567'
